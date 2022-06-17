@@ -11,7 +11,8 @@ header > .logo  {
     font-size: 40px;
     color: #f25a70;
     text-shadow: 4px 4px 0 black;
-    
+    line-height: 1em;
+    margin-bottom: 16px ;
 }
 
 .main-title.-second {
