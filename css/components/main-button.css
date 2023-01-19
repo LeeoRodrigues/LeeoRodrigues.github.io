@@ -21,4 +21,5 @@
 
 .main-button.-full:hover {
     transform: scale(1.01);
+    background-color: aquamarine;
 }
